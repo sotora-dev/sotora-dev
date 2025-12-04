@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFA2&background=00000000&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Sotora;Junior+Developer;Logic.+Psychology.+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFA2&background=00000000&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Sotora;Solo+Developer;Logic,+Psychology,+AI+Enthusiast" alt="Typing SVG" />
   </a>
 
   <h3>Shirokami Sotora</h3>
