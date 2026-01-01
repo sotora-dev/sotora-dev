@@ -33,7 +33,7 @@
 
 ## ✧ Introduction.
 
-I am **Sotora** solo developer and the **Creator of xDproject**. My work focuses on constructing efficient digital systems.
+I am **Sotora** solo developer and the **Creator of xDera**. My work focuses on constructing efficient digital systems.
 
 Unlike typical frontend developers, I specialize in **Native Architecture** building complex, modular applications using Vanilla JavaScript without heavy frameworks. I also possess a background in **Security Analysis** (Vulnerability Hunting).
 
