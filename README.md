@@ -1,5 +1,4 @@
-# Shirokami Sotora <https://xdera.net/media/badge.svg>
-
+# <span>Shirokami Sotora</span> <img src="https://xdera.net/media/badge.svg" height="20"/>
 code explorer | junior developer
 
 ## current
