@@ -3,4 +3,4 @@
 ## I am Sotora, Shirokami Sotora!
 I looooveee experimenting with new stuff, and playing with AI<br>
 My specialization is in looking for an alternative & efficiency<br>
-I do belive that uncapabilities does not limit creativity!
+I do belive that uncapability does not limit creativity!
